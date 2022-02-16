@@ -1,0 +1,138 @@
+
+
+[{"id":1,
+    "name":"Pranoy Prenon Das",
+    "subject":"Physics",
+    "qualification": "",
+    "img":"https://i.ibb.co/M2zLSNR/Cheerful-young-man-with-crossed-hands-looking-to-the-camera-Isolated-on-gray-background.jpg",
+    "describe":"",
+    "phone" : "01884227118",
+    "email"  : "",
+    "salary" : "5000"
+
+},
+{"id":2,
+    "name":"Maria Fahad",
+    "subject":"English",
+    "qualification": "",
+    "img":"https://i.ibb.co/R7Dvqby/Portrait-of-an-attractive-young-woman.jpg",
+    "describe":"",
+    "phone" : "0188422700",
+    "email"  : "",
+    "salary" : "4500"
+
+},
+{"id":3,
+    "name":"Fionah Rahman",
+    "subject":"Chemistry",
+    "qualification": "",
+    "img":"https://i.ibb.co/BcbpHbm/femail2.jpg",
+    "describe":"",
+    "phone" : "01884220008",
+    "email"  : "",
+    "salary" : "3500"
+
+},
+{"id":4,
+    "name":"Nusrat Jahan",
+    "subject":"Mathematics",
+    "qualification": "",
+    "img":"https://i.ibb.co/qJYWrqw/Portrait-of-young-afro-woman-looking-at-camera-Shot-of-african-female-in-casuals-against-white-backg.jpg",
+    "describe":"",
+    "phone" : "01884276118",
+    "email"  : "",
+    "salary" : "7000"
+
+},
+{"id":5,
+    "name":"Pritha Chakroborty",
+    "subject":"Bangla",
+    "qualification": "",
+    "img":"https://i.ibb.co/rtkJxWb/Glasses-girl-in-white-t-shirt-smiling.jpg",
+    "describe":"",
+    "phone" : "018842767118",
+    "email"  : "",
+    "salary" : "6000"
+
+},
+{"id":6,
+    "name":"Alima Jahan",
+    "subject":"Science",
+    "qualification": "",
+    "img":"https://i.ibb.co/5BMmWSR/Stylish-confident-adult-50-years-old-Asian-female-psychologist-standing-arms-crossed-looking-at-came.jpg",
+    "describe":"",
+    "phone" : "01884227118",
+    "email"  : "",
+    "salary" : "4500"
+
+},
+{"id":7,
+    "name":"Tania Tabassum",
+    "subject":"Biology",
+    "qualification": "",
+    "img":"https://i.ibb.co/TrX8W2W/femail4.jpg",
+    "describe":"",
+    "phone" : "01884227118",
+    "email"  : "",
+    "salary" : "3500"
+
+},
+{"id":8,
+    "name":"Farhan Elias",
+    "subject":"ICT",
+    "qualification": "",
+    "img":"https://i.ibb.co/28GYXLQ/man4.webp",
+    "describe":"",
+    "phone" : "01884227118",
+    "email"  : "",
+    "salary" : "5000"
+
+},
+{"id":9,
+    "name":"Rupok Roy",
+    "subject":"Codding",
+    "qualification": "",
+    "img":"https://i.ibb.co/NSbsHff/man3.jpg",
+    "describe":"",
+    "phone" : "01884227118",
+    "email"  : "",
+    "salary" : "4500"
+
+},
+{"id":10,
+    "name":"Rukon Ahmed",
+    "subject":"3d Painting",
+    "qualification": "",
+    "img":"https://i.ibb.co/HqD1Kz6/man2.jpg",
+    "describe":"",
+    "phone" : "01884227118",
+    "email"  : "",
+    "salary" : "4000"
+
+},
+{"id":11,
+    "name":"Saimun Rahman",
+    "subject":"Singing",
+    "qualification": "",
+    "img":"https://i.ibb.co/mhW7HZv/Portrait-of-a-handsome-young-man-in-the-city.jpg",
+    "describe":"",
+    "phone" : "01884227118",
+    "email"  : "",
+    "salary" : "5000"
+
+},
+{"id":12,
+    "name":"Prottoy Ahsaan",
+    "subject":"English",
+    "qualification": "",
+    "img":"https://i.ibb.co/XCTsfHH/Portrait-of-a-confident-young-businessman-standing-against-an-urban-background.jpg",
+    "describe":"",
+    "phone" : "01884227118",
+    "email"  : "",
+    "salary" : "4500"
+
+}]
+
+
+
+   
